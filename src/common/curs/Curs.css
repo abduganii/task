@@ -1,0 +1,105 @@
+.Curs {
+  padding-top: 161px;
+  padding-bottom: 151px;
+  color: #FFFFFF;
+}
+.Curs-title {
+  font-family: "Laviossa RUS";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 117.2%;
+  color: #FFFFFF;
+  margin-bottom: 30px;
+}
+.Curs_cart {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.Curs_cart-box {
+  width: 100%;
+  max-width: 510px;
+  border-radius: 20px;
+  border: 1px solid red;
+  padding: 30px;
+  padding-bottom: 21px;
+  cursor: pointer;
+}
+.Curs_cart-box:hover .Curs_cart-btm-icon {
+  transform: translate(385px);
+}
+.Curs_cart-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-top: 25px;
+  margin-bottom: 23px;
+}
+.Curs_cart-title {
+  font-family: "Laviossa RUS";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 117.2%;
+  color: #FFFFFF;
+  width: 249px;
+}
+.Curs_cart-data {
+  font-family: "Allerta Stencil";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 117.2%;
+  /* or 29px */
+  text-align: center;
+  color: #FFFFFF;
+  width: 74px;
+}
+.Curs_cart-text {
+  font-family: "Laviossa RUS";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 117.2%;
+  margin-bottom: 15px;
+  width: 380px;
+}
+.Curs_cart-btm {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.Curs_cart-btm-div {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  background: linear-gradient(180deg, #F3023E 0%, #F0073E 50%, #A10C2E 100%);
+}
+.Curs_cart-btm-icon {
+  transition: all 1s ease;
+}
+.Curs-btn {
+  font-family: "Laviossa RUS";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 117.2%;
+  text-align: center;
+  color: #FFFFFF;
+  background: linear-gradient(87.05deg, #F4013D 17.99%, #F0073E 43%, #F1013B 68.01%, #D90E3C 93.02%);
+  box-shadow: 0px 3px 49px -3px rgba(226, 72, 72, 0.76), inset 0px -4px 0px #8F1919;
+  border-radius: 20px;
+  padding: 35px 68px;
+  margin-right: 20px;
+}
+.Curs-btn:hover {
+  opacity: 0.8;
+}
+.Curs-btn:active {
+  opacity: 1;
+}
+.Curs-divbtn {
+  text-align: center;
+  margin-top: 40px;
+}/*# sourceMappingURL=Curs.css.map */

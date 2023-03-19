@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a9f093e.css",
+    "main.js": "/static/js/main.910b3feb.js",
+    "static/media/Maskgroup.svg": "/static/media/Maskgroup.b6719fe42058d8c72619.svg",
+    "static/media/photo.png": "/static/media/photo.138e08d660527fd85db5.png",
+    "static/media/logo.svg": "/static/media/logo.a2d39f46ed8ec99c41aebee8e84357ef.svg",
+    "static/media/logo1.svg": "/static/media/logo1.67977281ce0008e12a251a6d819925fd.svg",
+    "static/media/Rectangle398.png": "/static/media/Rectangle398.d74896eb9521c20a2d5d.png",
+    "static/media/Rectangle390.png": "/static/media/Rectangle390.70f7141b59688cd1dd1d.png",
+    "static/media/Rectangle399.png": "/static/media/Rectangle399.14cf692958bee9a15053.png",
+    "static/media/Rectangle392.png": "/static/media/Rectangle392.b64bca692ddbc272782d.png",
+    "static/media/Rectangle395.png": "/static/media/Rectangle395.335cfdf38c5d00692fba.png",
+    "static/media/Rectangle393.png": "/static/media/Rectangle393.9e42c6bf61b05e30b8ee.png",
+    "static/media/Rectangle389.png": "/static/media/Rectangle389.51fea481aad8b9eb5f46.png",
+    "static/media/Man.png": "/static/media/Man.5aed833bdc35d8d8fcb2.png",
+    "static/media/Rectangle394.png": "/static/media/Rectangle394.6c9d14180da2011cd98b.png",
+    "static/media/Rectangle391.png": "/static/media/Rectangle391.60964a0063ca81cf45de.png",
+    "static/media/pngwing.svg": "/static/media/pngwing.55c6d75e72478972b3bb07e709dd44bf.svg",
+    "static/media/ОНАС.svg": "/static/media/ОНАС.e4bb7bb0cce8d7984ce5135d43199b5a.svg",
+    "static/media/microscope.svg": "/static/media/microscope.ec6560590f2c1a223daeb7e9ecd2bf99.svg",
+    "static/media/Vactor.svg": "/static/media/Vactor.206e7221dbfe9a9b1c50.svg",
+    "static/media/Framesa.svg": "/static/media/Framesa.df6b7652812056d144718605cb2aab98.svg",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.be0e4bff98aab367d3aa7afe173cd76c.svg",
+    "static/media/Gerb.svg": "/static/media/Gerb.3deb013a71d4d48b562a.svg",
+    "static/media/right.svg": "/static/media/right.2de7b6a021a3178ca513.svg",
+    "main.4a9f093e.css.map": "/static/css/main.4a9f093e.css.map",
+    "main.910b3feb.js.map": "/static/js/main.910b3feb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a9f093e.css",
+    "static/js/main.910b3feb.js"
+  ]
+}

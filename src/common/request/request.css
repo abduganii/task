@@ -1,0 +1,77 @@
+.Request {
+  padding-bottom: 154px;
+}
+.Request-title {
+  font-family: "Allerta Stencil";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 117.2%;
+  color: #FFFFFF;
+  margin-bottom: 30px;
+}
+.Request-form {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.Request-input {
+  background: #202020;
+  border: 4px solid rgba(255, 255, 255, 0.29);
+  border-radius: 20px;
+  padding: 35px 30px;
+  width: 382px;
+  font-family: "Allerta Stencil";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 158.7%;
+  color: #FFFFFF;
+}
+.Request-input::-moz-placeholder {
+  font-family: "Allerta Stencil";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 158.7%;
+  color: #FFFFFF;
+  opacity: 0.5;
+}
+.Request-input:-ms-input-placeholder {
+  font-family: "Allerta Stencil";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 158.7%;
+  color: #FFFFFF;
+  opacity: 0.5;
+}
+.Request-input::placeholder {
+  font-family: "Allerta Stencil";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 158.7%;
+  color: #FFFFFF;
+  opacity: 0.5;
+}
+.Request-btn {
+  font-family: "Allerta Stencil";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 117.2%;
+  text-align: center;
+  color: #FFFFFF;
+  background: linear-gradient(87.05deg, #F4013D 17.99%, #F0073E 43%, #F1013B 68.01%, #D90E3C 93.02%);
+  box-shadow: 0px 3px 49px -3px rgba(226, 72, 72, 0.76), inset 0px -4px 0px #8F1919;
+  border-radius: 20px;
+  padding: 35px 68px;
+  margin-right: 20px;
+}
+.Request-btn:hover {
+  opacity: 0.8;
+}
+.Request-btn:active {
+  opacity: 1;
+}/*# sourceMappingURL=request.css.map */

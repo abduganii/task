@@ -1,0 +1,89 @@
+.Navbar {
+    display: flex;
+    align-items: center;
+    position: relative;
+
+    &-animation {
+        position: absolute;
+        height: 2px;
+        bottom: 0;
+        z-index: 0;
+        background: #D31B1B;
+        transition: all .5s ease 0s;
+    }
+
+
+    // .start-home,
+    .active:nth-child(1)~&-animation {
+        width: 80px;
+        left: 0;
+    }
+
+    // .start-curs,
+    .active:nth-child(2)~&-animation {
+        width: 72px;
+        left: 140px;
+    }
+
+    // .start-news,
+    .active:nth-child(3)~&-animation {
+        width: 104px;
+        left: 288px;
+    }
+
+    // .start-nas,
+    .active:nth-child(4)~&-animation {
+        width: 180px;
+        left: 466px;
+    }
+
+    // .start-home,
+    &-link:nth-child(1):hover~&-animation {
+        width: 80px;
+        left: 0;
+    }
+
+    // .start-curs,
+    &-link:nth-child(2):hover~&-animation {
+        width: 72px;
+        left: 140px;
+    }
+
+    // .start-news,
+    &-link:nth-child(3):hover~&-animation {
+        width: 104px;
+        left: 288px;
+    }
+
+    // .start-nas,
+    &-link:nth-child(4):hover~&-animation {
+        width: 180px;
+        left: 466px;
+    }
+
+
+    &-link {
+        font-family: 'Allerta Stencil';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 26px;
+        color: #FFFFFF;
+        list-style: none;
+        padding-right: 80px;
+        color: #FFFFFF;
+        text-decoration: none;
+        padding-bottom: 5px;
+        border-bottom: 2px solid transparent;
+        position: relative;
+        z-index: 1;
+        text-align: center;
+
+
+
+        &:nth-child(4) {
+            color: red
+        }
+    }
+
+}

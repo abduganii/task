@@ -1,0 +1,46 @@
+.Service {
+  position: relative;
+}
+.Service .container {
+  background: linear-gradient(145.17deg, rgba(196, 51, 51, 0.21) 18.76%, rgba(255, 255, 255, 0.112) 77.74%);
+  border-radius: 20px;
+  padding: 86px 66px 95px 77px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.Service_card {
+  width: 100%;
+  max-width: 283px;
+  text-align: center;
+}
+.Service_card-img {
+  width: 216px;
+  height: 216px;
+  background: linear-gradient(180deg, #F3023E 0%, #F0073E 50%, #A10C2E 100%);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+}
+.Service_card-text {
+  font-family: "Laviossa RUS";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 150%;
+  text-align: center;
+  background: linear-gradient(0deg, #FFFFFF, #FFFFFF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-top: 20px;
+}
+.Service-imghend {
+  position: absolute;
+  top: -50%;
+  right: 0;
+}/*# sourceMappingURL=service.css.map */

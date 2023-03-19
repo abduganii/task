@@ -1,0 +1,55 @@
+.header {
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0;
+        padding-top: 38px;
+        padding-bottom: 21px;
+        border-bottom: 1px solid #FFFFFF;
+    }
+
+    &-language {
+        font-family: 'Gotham Pro';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 17px;
+        color: #FFFFFF;
+        display: flex;
+        align-items: center;
+
+        cursor: pointer;
+
+        &:before {
+            content: "";
+            display: inline-block;
+            width: 24px;
+            height: 24px;
+            background-image: url('../../assets/images/Gerb.svg');
+            border-radius: 50%;
+            background-position: center;
+            background-size: contain;
+            margin-right: 6px;
+        }
+
+        &::after {
+            content: "";
+            display: inline-block;
+            width: 22px;
+            height: 22px;
+            background-image: url('../../assets/images/Vactor.svg');
+            margin-left: 3px;
+        }
+    }
+
+    &-cantact {
+        font-family: 'Allerta Stencil';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 26px;
+        color: #FFFFFF;
+        text-decoration: none;
+    }
+}

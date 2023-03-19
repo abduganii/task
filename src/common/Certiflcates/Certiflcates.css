@@ -1,0 +1,30 @@
+.Certiflcates {
+  padding-top: 165px;
+  padding-bottom: 150px;
+}
+.Certiflcates-title {
+  font-family: "Laviossa RUS";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 117.2%;
+  color: #FFFFFF;
+  margin-bottom: 178px;
+}
+.Certiflcates-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.Certiflcates-wrap div {
+  transition: all 1s ease;
+  padding-bottom: 33px;
+}
+.Certiflcates-wrap div:nth-child(2) {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.Certiflcates-wrap div:hover {
+  margin-top: -148px;
+  border-bottom: 1px solid red;
+}/*# sourceMappingURL=Certiflcates.css.map */

@@ -1,0 +1,43 @@
+.Mentors-title {
+  font-family: "Laviossa RUS";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 117.2%;
+  color: #FFFFFF;
+  margin-bottom: 141px;
+}
+.Mentors-cart {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.Mentors-cart-div {
+  position: relative;
+}
+.Mentors-cart-div:hover .Mentors-name {
+  color: #F1023D;
+}
+.Mentors-center {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: -111px;
+  width: 100%;
+  max-width: 762px;
+  border-bottom: 2px solid #D31B1B;
+  border-radius: 2px;
+  padding-bottom: 58px;
+}
+.Mentors-name {
+  font-family: "Laviossa RUS";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 117.2%;
+  color: #FFFFFF;
+  position: absolute;
+  bottom: 30px;
+  left: 108px;
+  z-index: 1;
+}/*# sourceMappingURL=mentors.css.map */
